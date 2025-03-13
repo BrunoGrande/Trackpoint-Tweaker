@@ -10,7 +10,7 @@ Trackpoint-Tweaker is a lightweight CLI tool that fine-tunes ThinkPad TrackPoint
 - **Bash Auto-Completion:** Automatically installs a completion snippet to suggest scale values (1–10).
 - **Self-Uninstall:** Easily remove the auto-completion file and the script itself with `sudo trackp -uninstall`.
 - **Idempotent Operation:** Checks current settings to avoid redundant changes after boot or resume.
-- **Optimized for ThinkPads:** Defaults to using the "TPPS/2 IBM TrackPoint" device name.
+- **Optimized for ThinkPads with the Driver:** Defaults to using the "TPPS/2 IBM TrackPoint" device name.
 
 ## Installation
 
